@@ -16,13 +16,23 @@
   float: right;
   width: 10%;
 }
+.getstarted{
+  background-color: hsl(322, 100%, 66%);
+  color: white;
+  align-content: center;
+}
 .mockup{
-  display: inline-block;
-  /* align-content: center; */
+  margin: auto;
+  width: 50%;
+}
+.users{
+  margin: auto;
+  width: 50%;
 }
 h1{
   color:hsl(322, 100%, 66%);
   font-weight: 700;
+  font-size: 3.0em;
   text-align: center;
   font-family: 'Poppins', sans-serif;
 } 
@@ -38,7 +48,12 @@ body{
   font-size: 18px;
   background-color:hsl(214, 64%, 98%);
 }
-
+p{
+  font-family:'Open Sans', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  text-align: center;
+}
 .end{
   background-color: hsl(192, 100%, 9%);
   font-color: white;
