@@ -19,6 +19,7 @@
 .getstarted{
   background-color: hsl(322, 100%, 66%);
   color: white;
+  width: 20%;
   align-content: center;
 }
 .mockup{
@@ -29,6 +30,10 @@
   margin: auto;
   width: 50%;
 }
+.words{
+
+
+}
 h1{
   color:hsl(322, 100%, 66%);
   font-weight: 700;
@@ -37,7 +42,8 @@ h1{
   font-family: 'Poppins', sans-serif;
 } 
 h3{
-  color:hsl(265, 100%, 66%)
+  
+  
 }
 h4{
   font-family:'Open Sans', sans-serif;
